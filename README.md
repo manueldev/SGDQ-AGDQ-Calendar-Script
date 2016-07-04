@@ -1,1 +1,1 @@
-"# SGDQ-AGDQ-Calendar-Script" 
+# SGDQ-AGDQ-Calendar-Script
